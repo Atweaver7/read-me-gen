@@ -1,0 +1,27 @@
+{
+  "name": "readme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aaron",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.5.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Atweaver7/read-me-gen.git"
+  },
+  "keywords": [
+    "read-me",
+    "generator",
+    "project"
+  ],
+  "bugs": {
+    "url": "https://github.com/Atweaver7/read-me-gen/issues"
+  },
+  "homepage": "https://github.com/Atweaver7/read-me-gen#readme"
+}
